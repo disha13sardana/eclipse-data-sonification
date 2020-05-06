@@ -3,7 +3,7 @@
 
 1. 'Eclipse Data Sonification.pdf' gives an overview of the process.
 
-2. 'Madgrical Data' folder contains python codes for downloading and manipulating the required data.
+2. 'Madrigal Data' folder contains python codes for downloading and manipulating the required data.
 
 3. 'Eclipse Data Sonification' folder contains MAX/MSP patch, Reaper file, original sound files, transitional sound files and the final binaural mix.
 
